@@ -77,7 +77,7 @@ class Root extends Component {
             <div>
                 <h2>What is Founder Shelfspace?</h2>
                 <p>
-                    What does the booksehlf of the worlds most successful founders, entrepreuners, and investors look like? Get context on how they think and browse the growing library of books they recommend...
+                What does the bookshelf of the worlds most successful founders, entrepreneurs, and investors look like? Get context on how they think and browse the growing library of books they recommend...
                 </p>
             </div>
         </Card>
