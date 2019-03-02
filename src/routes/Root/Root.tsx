@@ -37,7 +37,7 @@ function AdvancedGridList(props:any) {
       </div>
     );
   }
-
+  
   AdvancedGridList.propTypes = {
     classes: PropTypes.object.isRequired,
   };
@@ -72,8 +72,15 @@ class Root extends Component {
   render() {
     console.log(shelf)
     return (
-      <div className="App">
-        asd
+      <div className="persons">
+        <Card raised style={{margin: '4rem 0.25rem 1rem 0.25rem', padding: '0.5rem 1rem 0.5rem 1rem', textAlign: 'left'}}>
+            <div>
+                <p>
+                    What does the booksehlf of the worlds most successful founders, entrepreuners, and investors look like? Get context on how they think and browse the growing library of books they recommend...
+                </p>
+            </div>
+        </Card>
+        <MyTileList/>
       </div>
     );
   }
