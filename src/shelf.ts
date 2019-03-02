@@ -147,12 +147,18 @@ const persons:People = {
         company: "Amazon & The Washington Post",
         books: titlesToBooks(["The Remains of the Day", "Built to Last: Successful Habits of Visionary Companies", "Creation: Life and How to Make It", "Good to Great: Why Some Companies Make the Leap … and Others Don't", "The Innovator's Dilemma", "Sam Walton: Made in America", "The Mythical Man-Month"]), 
     },
+    "Mark Zuckerberg" : {
+        name: "Mark Zuckerberg",
+        img: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/02/05/13/0.jpg?w968",
+        description: "",
+        company: "Facebook",
+        books: titlesToBooks([]),
     }
 }
 
 
 const shelf:Shelf = {
-    people: namesToPeople(['Tobias Lütke','Tobias Lütke','Tobias Lütke','Tobias Lütke','Tobias Lütke'])
+    people: namesToPeople(["Tobias Lütke","Elon Musk", "Jeff Bezos", "Mark Zuckerberg"])
 }
 
 export default shelf
