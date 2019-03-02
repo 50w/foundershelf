@@ -62,11 +62,31 @@ const library:Books = {
         author: "Matthew Walker",
         img: "https://images-na.ssl-images-amazon.com/images/I/81w6RZ6xm1L.jpg"
     },
+    "The Hitchhiker's Guide to the Galaxy": {
+        title: "The Hitchhiker's Guide to the Galaxy",
+        author: "Douglas Adams",
+        img: "",
     },
-    'Thinking in Systems': {
-        title: 'Thinking in Systems',
-        author: 'Donella Meadows',
-        img: 'https://images-na.ssl-images-amazon.com/images/I/61npQHfWgAL.jpg',
+    "Einstein: His Life and Universe": {
+        title: "Einstein: His Life and Universe",
+        author: "Walter Isaacson",
+        img: ""
+    },
+    "Structures: Or Why Things Don't Fall Down": {
+        title: "Structures: Or Why Things Don't Fall Down",
+        author: "J.E. Gordon",
+        img: "",
+    },
+    "Superintelligence: Paths, Dangers, Strategies": {
+        title: "Superintelligence: Paths, Dangers, Strategies",
+        author: "Nick Bostrom",
+        img: "",
+    },
+    "Zero to One: Notes on Startups, or How to Build the Future": {
+        title: "Zero to One: Notes on Startups, or How to Build the Future",
+        author: "Peter Thiel",
+        img: "",
+    },
     },
     'Why We Sleep: Unlocking the Power of Sleep and Dreams': {
         title: 'Why We Sleep: Unlocking the Power of Sleep and Dreams',
@@ -76,12 +96,20 @@ const library:Books = {
 }
 
 const persons:People = {
-    'Tobias Lütke' : {
-        name: 'Tobias Lütke',
-        img: 'https://avatars2.githubusercontent.com/u/347?s=400&v=4',
-        description: 'Tobias Lütke (born 1980) is the German-born founder and CEO of Shopify, a commerce company based in Ottawa, Canada. He has served on the core team of the Ruby on Rails framework and has created open source libraries such as Active Merchant.',
-        company: 'Shopify',
-        books: titlesToBooks(['Mindset', 'Thinking in Systems', 'Why We Sleep: Unlocking the Power of Sleep and Dreams']), 
+    "Tobias Lütke" : {
+        name: "Tobias Lütke",
+        img: "https://avatars2.githubusercontent.com/u/347?s=400&v=4",
+        description: "Tobias Lütke (born 1980) is the German-born founder and CEO of Shopify, a commerce company based in Ottawa, Canada. He has served on the core team of the Ruby on Rails framework and has created open source libraries such as Active Merchant.",
+        company: "Shopify",
+        books: titlesToBooks(["Mindset", "Thinking in Systems", "Why We Sleep: Unlocking the Power of Sleep and Dreams"]), 
+    },
+    "Elon Musk" : {
+        name: "Elon Musk",
+        img: "https://amp.businessinsider.com/images/5b7440dcb354cd32108b5396-750-563.jpg",
+        description: "South African entrepreneur Elon Musk is known for founding Tesla Motors and SpaceX, which launched a landmark commercial spacecraft in 2012.",
+        company: "Tesla Motors & SpaceX",
+        books: titlesToBooks(["The Hitchhiker's Guide to the Galaxy", "Einstein: His Life and Universe", "Structures: Or Why Things Don't Fall Down", "Superintelligence: Paths, Dangers, Strategies", "Zero to One: Notes on Startups, or How to Build the Future",]), 
+    },
     }
 }
 
