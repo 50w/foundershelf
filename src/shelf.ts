@@ -13,3 +13,14 @@ interface Books {
     [key: string]: Book
 }
 
+interface Person {
+    name: string;
+    img: string;
+    description: string;
+    company: string;
+    books: Book[];
+}
+
+interface People {
+    [key: string]: Person
+}
