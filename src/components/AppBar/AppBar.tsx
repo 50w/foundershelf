@@ -125,9 +125,9 @@ class PrimarySearchAppBar extends React.Component<Props, State> {
     return (
       <div className={classes.root}>
         <AppBar position="fixed">
-          <Toolbar>
+          <Toolbar><h2 style={{marginRight: '1rem'}}>📚</h2>
             <Typography className={classes.title} variant="h6" color="inherit" noWrap>
-              📚 Founders Shelf
+              Founder Shelfspace
             </Typography>
             <div className={classes.search}>
               <div className={classes.searchIcon}>
