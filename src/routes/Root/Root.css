@@ -8,11 +8,8 @@
 @media only screen and (min-width: 768px) {
     .persons {
         border-radius: 1rem;
-        height: calc(100VH - 10rem);
     }
     .MuiGridList-root-5 {
         border-radius: 1rem;
-        height: calc(100VH - 10rem);
     }
-    .element::-webkit-scrollbar { width: 0 !important }
 }
