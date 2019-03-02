@@ -16,6 +16,9 @@ class App extends Component {
           <Route path='/' component={Root}/>
         </Router>
       </div>
+      <div className='' style={{textAlign: 'center', margin: '1rem 0 2rem 0'}}>
+          Made with ❤️ by <a target='_blank' href='https://www.github.com/nicklewanowicz'>Nick</a> and <a target='_blank' href='https://www.github.com/foopert'>Connor</a> 
+      </div>
       </>
     );
   }
