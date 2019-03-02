@@ -73,3 +73,10 @@ const persons:People = {
         books: titlesToBooks(['Mindset', 'Thinking in Systems', 'Why We Sleep: Unlocking the Power of Sleep and Dreams']), 
     }
 }
+
+
+const shelf:Shelf = {
+    people: namesToPeople(['Tobias Lütke','Tobias Lütke','Tobias Lütke','Tobias Lütke','Tobias Lütke'])
+}
+
+export default shelf
