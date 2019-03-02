@@ -63,3 +63,13 @@ const library:Books = {
         img: 'https://images-na.ssl-images-amazon.com/images/I/81w6RZ6xm1L.jpg'
     }
 }
+
+const persons:People = {
+    'Tobias Lütke' : {
+        name: 'Tobias Lütke',
+        img: 'https://avatars2.githubusercontent.com/u/347?s=400&v=4',
+        description: 'Tobias Lütke (born 1980) is the German-born founder and CEO of Shopify, a commerce company based in Ottawa, Canada. He has served on the core team of the Ruby on Rails framework and has created open source libraries such as Active Merchant.',
+        company: 'Shopify',
+        books: titlesToBooks(['Mindset', 'Thinking in Systems', 'Why We Sleep: Unlocking the Power of Sleep and Dreams']), 
+    }
+}
