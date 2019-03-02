@@ -12,6 +12,8 @@ class App extends Component {
     return (
       <>
       {/* <AppBar/> */}
+      <h2 style={{margin: '0', padding: '1rem 0 0 1rem', color: 'white', position: 'absolute', zIndex: 1}}>{`FounderShelf.space`}</h2>
+      <div className='element'/>
       <div className="App">
       <Card raised style={{margin: '1rem 0.25rem 1rem 0.25rem', padding: '0.5rem 1rem 0.5rem 1rem', textAlign: 'left'}}>
           <div>
