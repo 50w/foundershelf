@@ -58,7 +58,7 @@ const MyTileList = withStyles({
     },
     titleBar: {
       background:
-        'linear-gradient(to bottom, rgba(0,0,0,0.7) 0%, ' +
+        'linear-gradient(to top, rgba(0,0,0,0.7) 0%, ' +
         'rgba(0,0,0,0.3) 70%, rgba(0,0,0,0) 100%)',
     },
     icon: {
@@ -75,6 +75,7 @@ class Root extends Component {
       <div className="persons">
         <Card raised style={{margin: '4rem 0.25rem 1rem 0.25rem', padding: '0.5rem 1rem 0.5rem 1rem', textAlign: 'left'}}>
             <div>
+                <h2>What is Founder Shelfspace?</h2>
                 <p>
                     What does the booksehlf of the worlds most successful founders, entrepreuners, and investors look like? Get context on how they think and browse the growing library of books they recommend...
                 </p>
