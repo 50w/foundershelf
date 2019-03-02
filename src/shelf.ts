@@ -24,3 +24,7 @@ interface Person {
 interface People {
     [key: string]: Person
 }
+interface Shelf {
+    people: Person[]
+}
+
