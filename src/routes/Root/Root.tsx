@@ -73,11 +73,12 @@ class Root extends Component {
     console.log(shelf)
     return (
       <div className="persons">
+      <h2>{`<FounderShelfspace/>`}</h2>
         <Card raised style={{margin: '4rem 0.25rem 1rem 0.25rem', padding: '0.5rem 1rem 0.5rem 1rem', textAlign: 'left'}}>
             <div>
                 <h2>What is Founder Shelfspace?</h2>
                 <p>
-                What does the bookshelf of the worlds most successful founders, entrepreneurs, and investors look like? Get context on how they think and browse the growing library of books they recommend...
+                  What does the bookshelf of the worlds most successful founders, entrepreneurs, and investors look like? Get context on how they think and browse the growing library of books they recommend...
                 </p>
             </div>
         </Card>
