@@ -18,16 +18,16 @@ function AdvancedGridList(props:any) {
       <div className={classes.root}>
         <GridList cellHeight={200} spacing={1} cols={matches ? 3 : 2} className={classes.gridList}>
           {shelf.people.map(person => (
-            <GridListTile key={person.img} cols={1} rows={2}>
+            <GridListTile key={person.img} cols={1} rows={matches ? 2 : 1}>
               <img src={person.img} alt={person.name} />
               <GridListTileBar
                 title={person.name}
-                titlePosition="top"
-                actionIcon={
-                  <IconButton className={classes.icon}>
-                    <StarBorderIcon />
-                  </IconButton>
-                }
+                titlePosition="bottom"
+                // actionIcon={
+                //   <IconButton className={classes.icon}>
+                //     <StarBorderIcon />
+                //   </IconButton>
+                // }
                 actionPosition="left"
                 className={classes.titleBar}
               />
