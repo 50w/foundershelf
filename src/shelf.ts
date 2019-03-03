@@ -274,13 +274,29 @@ const persons:People = {
         'Mindset: The New Psychology of Success',
         'The Checklist Manifesto: How To Get Things Right']),
     },
+    "Casey Neistat" : {
+        name: "Casey Neistat",
+        img: "https://yt3.ggpht.com/a-/AAuE7mBHLI_zMeeeudOv2PoQpYX0lmgwBdhJ2t41bQ=s900-mo-c-c0xffffffff-rj-k-no",
+        description: "Casey Neistat is an American vlogger, filmmaker, and Founder of the 368 Creative Space.",
+        company: "368 Creative Space",
+        books: titlesToBooks(['How to Turn Down a Billion Dollars: The Snapchat Story',
+        'Crushing It!: How Great Entrepreneurs Build Their Business and Influence-and How You Can, Too',
+        'American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road',
+        'Essentialism: The Disciplined Pursuit of Less',
+        'Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal',
+        'The Second World War',
+        'The Autobiography of Malcolm X: As Told to Alex Haley',
+        'Zero to One: Notes on Startups, or How to Build the Future',
+        'Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future']),
+    },
+    
 
 
 }
 
 
 const shelf:Shelf = {
-    people: namesToPeople(["Tobias Lütke","Elon Musk", "Jeff Bezos", "Mark Zuckerberg","Bill Gates", "Warren Buffett", "Tim Ferriss", "Oprah Winfrey", "Barack Obama", "Steve Jobs", "Marissa Mayer", "Sheryl Sandberg", "Tony Robbins", "Jack Dorsey"])
+    people: namesToPeople(["Tobias Lütke","Elon Musk", "Jeff Bezos", "Mark Zuckerberg","Bill Gates", "Warren Buffett", "Tim Ferriss", "Oprah Winfrey", "Barack Obama", "Steve Jobs", "Marissa Mayer", "Sheryl Sandberg", "Tony Robbins", "Jack Dorsey", "Casey Neistat"])
 }
 
 export default shelf

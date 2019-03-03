@@ -866,6 +866,47 @@ const books:Books = {
             author: "J.E. Gordon",
             img: "https://www.theceolibrary.com/wp-content/uploads/2017/07/Structures-Or-Why-Things-Dont-Fall-Down-J.-E.-Gordon.jpg"
         },
+        "How to Turn Down a Billion Dollars: The Snapchat Story": {
+            title: "How to Turn Down a Billion Dollars: The Snapchat Story",
+            author: "Billy Gallagher",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/12/How-to-Turn-Down-a-Billion-Dollars-The-Snapchat-Story.jpg"
+        },
+    "Crushing It!: How Great Entrepreneurs Build Their Business and Influence-and How You Can, Too": {
+            title: "Crushing It!: How Great Entrepreneurs Build Their Business and Influence-and How You Can, Too",
+            author: "Gary Vaynerchuk",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/12/Crushing-It.jpg"
+        },
+    "American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road":
+    {
+            title: "American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road",
+            author: "Nick Bilton",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/12/American-Kingpin-The-Epic-Hunt-for-the-Criminal-Mastermind-Behind-the-Silk-Road.jpg"
+        },
+    "Essentialism: The Disciplined Pursuit of Less": {
+            title: "Essentialism: The Disciplined Pursuit of Less",
+            author: "Greg McKeown",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2017/11/Essentialism-The-Disciplined-Pursuit-of-Less-Greg-McKeown.jpg"
+        },
+    "Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal": {
+            title: "Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal",
+            author: "Nick Bilton",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2017/10/Hatching-Twitter-A-True-Story-of-Money-Power-Friendship-and-Betrayal-Nick-Bilton.jpg"
+        },
+    "The Second World War": {
+            title: "The Second World War",
+            author: "John Keegan",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2017/09/The-Second-World-War-John-Keegan.jpg"
+        },
+    "The Autobiography of Malcolm X: As Told to Alex Haley": {
+            title: "The Autobiography of Malcolm X: As Told to Alex Haley",
+            author: "Malcolm X, Alex Haley",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2017/09/The-Autobiography-of-Malcolm-X-As-Told-to-Alex-Haley.jpg"
+        },
+    "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future": {
+            title: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+            author: "Ashlee Vance",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2017/08/Elon-Musk-Tesla-SpaceX-and-the-Quest-for-a-Fantastic-Future-Ashlee-Vance.jpg"
+        },
 }
 
 export default books
