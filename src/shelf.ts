@@ -44,22 +44,39 @@ const persons:People = {
     "Mark Zuckerberg" : {
         name: "Mark Zuckerberg",
         img: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/02/05/13/0.jpg?w968",
-        description: "",
+        description: "Mark Zuckerberg is co-founder and CEO of the social-networking website Facebook, as well as one of the world's youngest billionaires.",
         company: "Facebook",
         books: titlesToBooks([]),
     },
     "Bill Gates" : {
         name: "Bill Gates",
-        img: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/02/05/13/0.jpg?w968",
-        description: "",
+        img: "https://yt3.ggpht.com/a-/AAuE7mD8j66Gv5r4oLf48Ij7PMljbIm_-GrASQ-CSA=s900-mo-c-c0xffffffff-rj-k-no",
+        description: "Entrepreneur Bill Gates founded the world's largest software business, Microsoft, with Paul Allen, and subsequently became one of the richest men in the world.",
         company: "Microsoft",
-        books: titlesToBooks([]),
+        books: titlesToBooks(['Buffett: The Making of an American Capitalist',
+        'Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies',
+        'The Headspace Guide to Meditation and Mindfulness: How Mindfulness Can Change Your Life in Ten Minutes a Day',
+        'Army of None: Autonomous Weapons and the Future of War',
+        'Educated: A Memoir',
+        'The Magic of Reality: How We Know What’s Really True',
+        'How to Lie with Statistics',
+        'On Immunity: An Inoculation',
+        'Collapse: How Societies Choose to Fail or Succeed',
+        'Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World With OKRs',
+        'Winners Take It All: The Elite Charade of Changing the World',
+        'Enlightenment Now: The Case for Reason, Science, Humanism, and Progress',
+        '21 Lessons for the 21st Century',
+        'Bad Blood: Secrets and Lies in a Silicon Valley Startup',
+        'Origin Story: A Big History of Everything',
+        'Lincoln in the Bardo',
+        'Everything Happens for a Reason and Other Lies I’ve Loved',
+        'Factfulness: Ten Reasons We’re Wrong about the World–and Why Things Are Better Than You Think']),
     }
 }
 
 
 const shelf:Shelf = {
-    people: namesToPeople(["Tobias Lütke","Elon Musk", "Jeff Bezos", "Mark Zuckerberg","Tobias Lütke","Elon Musk", "Jeff Bezos", "Mark Zuckerberg", "Tobias Lütke","Elon Musk", "Jeff Bezos", "Mark Zuckerberg"])
+    people: namesToPeople(["Tobias Lütke","Elon Musk", "Jeff Bezos", "Mark Zuckerberg","Bill Gates"])
 }
 
 export default shelf

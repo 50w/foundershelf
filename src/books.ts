@@ -85,7 +85,88 @@ const books:Books = {
         title: "Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies",
         author: "Reid Hoffman, Chris Yeh",
         img: "https://www.theceolibrary.com/wp-content/uploads/2019/01/Blitzscaling-Reid-Hoffman-Chris-Yeh.jpg"    
-    }
+    },
+    "The Headspace Guide to Meditation and Mindfulness: How Mindfulness Can Change Your Life in Ten Minutes a Day": {
+        title: "The Headspace Guide to Meditation and Mindfulness: How Mindfulness Can Change Your Life in Ten Minutes a Day",
+        author: "Andy Puddicombe",
+        img: "https://www.theceolibrary.com/wp-content/uploads/2018/12/The-Headspace-Guide-to-Meditation-and-Mindfulness-How-Mindfulness-Can-Change-Your-Life-in-Ten-Minutes-a-Day.jpg"
+    },
+    "Army of None: Autonomous Weapons and the Future of War": {
+            title: "Army of None: Autonomous Weapons and the Future of War",
+            author: "Paul Scharre",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/12/Army-of-None-Autonomous-Weapons-and-the-Future-of-War.jpg"
+        },
+    "Educated: A Memoir": {
+            title: "Educated: A Memoir",
+            author: "Tara Westover",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/12/Educated-A-Memoir-by-Tara-Westover.jpg"
+        },
+    "The Magic of Reality: How We Know What’s Really True": {
+            title: "The Magic of Reality: How We Know What’s Really True",
+            author: "Richard Dawkins",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/12/The-Magic-of-Reality-How-We-Know-Whats-Really-True.jpg"
+        },
+    "How to Lie with Statistics": {
+            title: "How to Lie with Statistics",
+            author: "Darrell Huff",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/12/How-to-Lie-with-Statistics.jpg"
+        },
+    "On Immunity: An Inoculation": {
+            title: "On Immunity: An Inoculation",
+            author: "Eula Biss",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/12/On-Immunity-by-Eula-Biss.jpg"
+        },
+    "Collapse: How Societies Choose to Fail or Succeed": {
+            title: "Collapse: How Societies Choose to Fail or Succeed",
+            author: "Jared Diamond",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/12/Collapse-How-Societies-Choose-to-Fail-or-Succeed.jpg"
+        },
+    "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World With OKRs": {
+            title: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World With OKRs",
+            author: "John Doerr",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/12/Measure-What-Matters-by-John-Doerr.jpg"
+        },
+    "Winners Take It All: The Elite Charade of Changing the World": {
+            title: "Winners Take It All: The Elite Charade of Changing the World",
+            author: "Anand Giridharadas",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/11/Winners-Take-All-The-Elite-Charade-of-Changing-the-World.jpg"
+        },
+    "Enlightenment Now: The Case for Reason, Science, Humanism, and Progress": {
+            title: "Enlightenment Now: The Case for Reason, Science, Humanism, and Progress",
+            author: "Steven Pinker",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/11/Enlightenment-Now-The-Case-for-Reason-Science-Humanism-and-Progress.jpg"
+        },
+    "21 Lessons for the 21st Century": {
+            title: "21 Lessons for the 21st Century",
+            author: "Yuval Noah Harari",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/09/21-Lessons-for-the-21st-Century-Yuval-Noah-Harari.jpg"
+        },
+    "Bad Blood: Secrets and Lies in a Silicon Valley Startup": {
+            title: "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+            author: "John Carreyrou",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/05/Bad-Blood-Secrets-and-Lies-in-a-Silicon-Valley-Startup-by-John-Carreyrou.jpg"
+        },
+    "Origin Story: A Big History of Everything": {
+            title: "Origin Story: A Big History of Everything",
+            author: "David Christian",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/05/Origin-Story-A-Big-History-of-Everything-by-David-Christian.jpg"
+        },
+    "Lincoln in the Bardo": {
+            title: "Lincoln in the Bardo",
+            author: "George Saunders",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/05/Lincoln-in-the-Bardo-by-George-Saunders.jpg"
+        },
+    "Everything Happens for a Reason and Other Lies I’ve Loved": {
+            title: "Everything Happens for a Reason and Other Lies I’ve Loved",
+            author: "Kate Bowler",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/05/Everything-Happens-for-a-Reason-and-Other-Lies-Ive-Loved-by-Kate-Bowler.jpg"
+        },
+    "Factfulness: Ten Reasons We’re Wrong about the World–and Why Things Are Better Than You Think": {
+            title: "Factfulness: Ten Reasons We’re Wrong about the World–and Why Things Are Better Than You Think",
+            author: "Hans Rosling, Anna Rosling Ronnlund, Ola Rosling ",
+            img: "https://www.theceolibrary.com/wp-content/uploads/2018/04/Factfulness-Ten-Reasons-Were-Wrong-About-the-World—and-Why-Things-Are-Better-Than-You-Think-by-Hans-Rosling-Anna-Rosling-Ronnlund-Ola-Rosling.jpg"
+        },
+    
 }
 
 export default books
