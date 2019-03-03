@@ -44,13 +44,14 @@ export default withStyles({
     root: {
       flexWrap: 'wrap',
       justifyContent: 'space-around',
-      width: '99%',
+      width: '100%',
+      overflowY: 'scroll',
+      overflowX: 'hidden',
       margin: 'auto',
       maxHeight: 'calc(100VH-20rem)',
       paddingBottom: '1rem',
     },
     gridList: {
-      maxHeight: '50VH',
       // Promote the list into his own layer on Chrome. This cost memory but helps keeping high FPS.
       transform: 'translateZ(0)',
       // boxShadow: '0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)',
