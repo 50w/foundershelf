@@ -1,0 +1,15 @@
+.founder-content {
+
+}
+
+.founder-header {
+    margin: 0;
+    padding: 1rem 0 0 1rem;
+    color: white;
+    position: absolute;
+    z-index: 1;
+    width: 92%;
+    display: flex;
+    justify-content: space-between;
+}
+

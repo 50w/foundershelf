@@ -1,15 +1,12 @@
 import React from 'react';
 import { withStyles } from '@material-ui/core/styles';
-import Button from '@material-ui/core/Button';
 import Dialog from '@material-ui/core/Dialog';
-import ListItemText from '@material-ui/core/ListItemText';
-import ListItem from '@material-ui/core/ListItem';
-import List from '@material-ui/core/List';
-import Divider from '@material-ui/core/Divider';
 import Slide from '@material-ui/core/Slide';
+import { unstable_useMediaQuery as useMediaQuery } from '@material-ui/core/useMediaQuery';
 
 import {Person} from '../../../../types'
-
+import {BookGridList} from '../'
+import './Founder.css'
 function Transition(props: any) {
   return <Slide direction="up" {...props} />;
 }
@@ -21,11 +18,9 @@ interface Props {
     open: boolean;
 }
 
-
-class FullScreenDialog extends React.Component<Props, any> {
-
-  render() {
-    const { handleClose, open, person } = this.props;
+const FullScreenDialog: React.SFC<any> = (props:Props) => {
+    const matches = useMediaQuery('(min-width:768px)');
+    const { handleClose, open, person } = props;
     return person ? (
       <div>
         <Dialog
@@ -33,18 +28,25 @@ class FullScreenDialog extends React.Component<Props, any> {
           open={open}
           onClose={handleClose}
           TransitionComponent={Transition}
-        >
-        {person.name}
+          style={{maxWidth: '1000px', maxHeight: matches ? 1000 : '100%', margin: 'auto'}}
+        >       
+            <div className='founder-content'>
+                <div className='founder-card'>
+                    <h2 className='founder-header'>
+                        {person.name}
+                    </h2> 
+                    <div className='element'/>
+
+                    <img width='40%' src={person.img} />
+                </div>
+                <BookGridList books={person.books}/>
+            </div>
         </Dialog>
       </div>
     ): null;
-  }
 }
 
 export default withStyles({
-    appBar: {
-      position: 'relative',
-    },
     flex: {
       flex: 1,
     },
