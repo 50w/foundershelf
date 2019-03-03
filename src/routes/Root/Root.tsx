@@ -23,11 +23,6 @@ function AdvancedGridList(props:any) {
               <GridListTileBar
                 title={person.name}
                 titlePosition="bottom"
-                // actionIcon={
-                //   <IconButton className={classes.icon}>
-                //     <StarBorderIcon />
-                //   </IconButton>
-                // }
                 actionPosition="left"
                 className={classes.titleBar}
               />
