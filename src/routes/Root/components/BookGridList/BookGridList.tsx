@@ -44,7 +44,8 @@ export default withStyles({
     root: {
       flexWrap: 'wrap',
       justifyContent: 'space-around',
-      width: '100%',
+      width: '99%',
+      margin: 'auto',
       maxHeight: 'calc(100VH-20rem)',
       paddingBottom: '1rem',
     },

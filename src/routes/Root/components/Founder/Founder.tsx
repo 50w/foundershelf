@@ -29,10 +29,10 @@ const FullScreenDialog: React.SFC<any> = (props:Props) => {
             onClose={handleClose}
             TransitionComponent={Transition}
         >       
-            <img width={matches ? 200 : 100} height={matches ? 200 : 100} style={{margin: 'auto', borderRadius:'100%', objectFit: 'cover'}} src={person.img} />
             <div className='founder-content'>
                 <div className='founder-card'>
                     <div className='founder-header'>
+                        <img width={matches ? 200 : 100} height={matches ? 200 : 100} style={{margin: 'auto', borderRadius:'100%', objectFit: 'cover'}} src={person.img} />
                         <h2 style={{margin: 'auto'}}>{person.name}</h2>
                     </div> 
 
