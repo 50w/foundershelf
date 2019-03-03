@@ -1,32 +1,6 @@
 import { string } from "prop-types";
+import {Shelf, Person, People, Book, Books} from './types'
 
-
-
-// Interfaces -----------------------------------
-interface Book {
-    title: string;
-    author: string;
-    img: string;
-}
-
-interface Books {
-    [key: string]: Book
-}
-
-interface Person {
-    name: string;
-    img: string;
-    description: string;
-    company: string;
-    books: Book[];
-}
-
-interface People {
-    [key: string]: Person
-}
-interface Shelf {
-    people: Person[]
-}
 
 // Utilities ------------------------------------
 function titlesToBooks(arr: string[]):Book[] {
@@ -158,7 +132,7 @@ const persons:People = {
 
 
 const shelf:Shelf = {
-    people: namesToPeople(["Tobias Lütke","Elon Musk", "Jeff Bezos", "Mark Zuckerberg"])
+    people: namesToPeople(["Tobias Lütke","Elon Musk", "Jeff Bezos", "Mark Zuckerberg","Tobias Lütke","Elon Musk", "Jeff Bezos", "Mark Zuckerberg", "Tobias Lütke","Elon Musk", "Jeff Bezos", "Mark Zuckerberg"])
 }
 
 export default shelf
