@@ -10,10 +10,11 @@ import {Person} from '../../../../types'
 
 interface Props { 
   classes: any;
-  selectPerson(selected: Person): void; 
+  selectPerson(selected: Person): void;
+  people: Person[]; 
 }
 
-const AdvancedGridList: React.SFC<any> = (props:any) => {
+const AdvancedGridList: React.SFC<any> = (props:Props) => {
     const { classes, selectPerson } = props;
     const matches = useMediaQuery('(min-width:768px)');
 
