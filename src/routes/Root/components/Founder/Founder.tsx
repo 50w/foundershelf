@@ -7,6 +7,7 @@ import { unstable_useMediaQuery as useMediaQuery } from '@material-ui/core/useMe
 import {Person} from '../../../../types'
 import {BookGridList} from '../'
 import './Founder.css'
+import { inherits } from 'util';
 function Transition(props: any) {
   return <Slide direction="up" {...props} />;
 }
@@ -22,27 +23,23 @@ const FullScreenDialog: React.SFC<any> = (props:Props) => {
     const matches = useMediaQuery('(min-width:768px)');
     const { handleClose, open, person } = props;
     return person ? (
-      <div>
         <Dialog
-          fullScreen
-          open={open}
-          onClose={handleClose}
-          TransitionComponent={Transition}
-          style={{maxWidth: '1000px', maxHeight: matches ? 1000 : '100%', margin: 'auto'}}
+            open={open}
+            onClose={handleClose}
+            TransitionComponent={Transition}
+            style={{maxWidth: '1000px', maxHeight: matches ? 1000 : '100%', margin: matches ? 'auto' : 0}}
         >       
+            <img width={matches ? 200 : 100} height={matches ? 200 : 100} style={{margin: 'auto', borderRadius:'100%', objectFit: 'cover'}} src={person.img} />
             <div className='founder-content'>
                 <div className='founder-card'>
-                    <h2 className='founder-header'>
-                        {person.name}
-                    </h2> 
-                    <div className='element'/>
+                    <div className='founder-header'>
+                        <h2 style={{margin: 'auto'}}>{person.name}</h2>
+                    </div> 
 
-                    <img width='40%' src={person.img} />
                 </div>
                 <BookGridList books={person.books}/>
             </div>
         </Dialog>
-      </div>
     ): null;
 }
 
