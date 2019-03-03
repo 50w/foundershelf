@@ -1,5 +1,5 @@
 import {Shelf, Person, People, Book, Books} from './types'
-import Library from './books'
+import library from './books'
 
 // Utilities ------------------------------------
 function titlesToBooks(arr: string[]):Book[] {
