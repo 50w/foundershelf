@@ -2,7 +2,6 @@
   text-align: center;
   margin-left: 0.25rem;
   margin-right: 0.25rem;
-
 }
 
 .header {
@@ -19,6 +18,8 @@
 @media only screen and (min-width: 768px) {
   .App {
     margin: 0 5rem 0 5rem;
+    max-width: 1500px;
+    margin: auto;
   }
 
 }
