@@ -19,7 +19,7 @@ const BookGridList: React.SFC<any> = (props:Props) => {
 
     return (
       <div className={classes.root}>
-        <GridList cellHeight={200} spacing={1} cols={matches ? 4 : 3} className={classes.gridList}>
+        <GridList cellHeight={matches ? 150 : 200} spacing={1} cols={3} className={classes.gridList}>
           {props.books.map((person:Book) => (
             <GridListTile key={person.img} cols={1} rows={matches ? 2 : 1}>
               <img src={person.img} alt={person.title} />
@@ -49,6 +49,7 @@ export default withStyles({
       paddingBottom: '1rem',
     },
     gridList: {
+      maxHeight: '50VH',
       // Promote the list into his own layer on Chrome. This cost memory but helps keeping high FPS.
       transform: 'translateZ(0)',
       // boxShadow: '0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22)',

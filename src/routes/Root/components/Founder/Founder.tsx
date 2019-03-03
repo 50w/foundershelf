@@ -24,10 +24,10 @@ const FullScreenDialog: React.SFC<any> = (props:Props) => {
     const { handleClose, open, person } = props;
     return person ? (
         <Dialog
+            fullScreen={matches ? false : true} 
             open={open}
             onClose={handleClose}
             TransitionComponent={Transition}
-            style={{maxWidth: '1000px', maxHeight: matches ? 1000 : '100%', margin: matches ? 'auto' : 0}}
         >       
             <img width={matches ? 200 : 100} height={matches ? 200 : 100} style={{margin: 'auto', borderRadius:'100%', objectFit: 'cover'}} src={person.img} />
             <div className='founder-content'>
@@ -43,8 +43,4 @@ const FullScreenDialog: React.SFC<any> = (props:Props) => {
     ): null;
 }
 
-export default withStyles({
-    flex: {
-      flex: 1,
-    },
-  })(FullScreenDialog);
+export default FullScreenDialog;
