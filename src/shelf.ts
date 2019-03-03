@@ -32,7 +32,7 @@ const persons:People = {
         img: "https://amp.businessinsider.com/images/5b7440dcb354cd32108b5396-750-563.jpg",
         description: "South African entrepreneur Elon Musk is known for founding Tesla Motors and SpaceX, which launched a landmark commercial spacecraft in 2012.",
         company: "Tesla Motors & SpaceX",
-        books: titlesToBooks(["The Hitchhiker's Guide to the Galaxy", "Einstein: His Life and Universe", "Structures: Or Why Things Don't Fall Down", "Superintelligence: Paths, Dangers, Strategies", "Zero to One: Notes on Startups, or How to Build the Future",]), 
+        books: titlesToBooks(["The Hitchhiker's Guide to the Galaxy", "Einstein: His Life and Universe", "Structures: Or Why Things Don't Fall Down", "Superintelligence: Paths, Dangers, Strategies", "Zero to One: Notes on Startups, or How to Build the Future"]), 
     },
     "Jeff Bezos" : {
         name: "Jeff Bezos",
@@ -91,7 +91,7 @@ const persons:People = {
     },
     "Warren Buffett" : {
         name: "Warren Buffett",
-        img: "https://cdn-images-1.medium.com/max/1200/1*2Frkle0S00XNwxT6v6EcBg.jpeg"
+        img: "https://cdn-images-1.medium.com/max/1200/1*2Frkle0S00XNwxT6v6EcBg.jpeg",
         description: 'Known as the "Oracle of Omaha," Warren Buffett is an investment guru and one of the richest and most respected businessmen in the world.',
         company: "Berkshire Hathaway",
         books: titlesToBooks(['Mastering the Market Cycle: Getting the Odds on Your Side',
@@ -185,7 +185,7 @@ const persons:People = {
 
 
 const shelf:Shelf = {
-    people: namesToPeople(["Tobias Lütke","Elon Musk", "Jeff Bezos", "Mark Zuckerberg","Bill Gates"])
+    people: namesToPeople(["Tobias Lütke","Elon Musk", "Jeff Bezos", "Mark Zuckerberg","Bill Gates", "Warren Buffett", "Tim Ferriss", "Oprah Winfrey", "Barack Obama"])
 }
 
 export default shelf

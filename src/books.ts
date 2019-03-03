@@ -36,11 +36,6 @@ const books:Books = {
         author: "Nick Bostrom",
         img: "",
     },
-    "Zero to One: Notes on Startups, or How to Build the Future": {
-        title: "Zero to One: Notes on Startups, or How to Build the Future",
-        author: "Peter Thiel",
-        img: "",
-    },
     "The Remains of the Day": {
         title: "The Remains of the Day",
         author: "Kazuo Ishiguro",
