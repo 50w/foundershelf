@@ -4,14 +4,12 @@ import Card from '@material-ui/core/Card';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 import {Root} from './routes';
-import{AppBar} from './components'
 import './App.css';
 
 class App extends Component {
   render() {
     return (
       <div className='app'>
-        {/* <AppBar/> */}
         <h2 className='header'>
           FounderShelf.space
           <a style={{color: 'white'}} target='_blank' href='https://www.github.com/nicklewanowicz/founder-shelfspace'><i className="fab fa-github"></i></a>
