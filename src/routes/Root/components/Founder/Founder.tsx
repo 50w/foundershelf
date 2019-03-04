@@ -40,7 +40,8 @@ const FullScreenDialog: React.SFC<any> = (props:Props) => {
                         <Card style={{marginBottom: '0.25rem', padding: '0.5rem 1rem 0.5rem 1rem', textAlign: 'left', display: 'flex', flexDirection: 'row'}}>
                             <img width={matches ? 200 : 100} height={matches ? 200 : 100} style={{margin: 'auto 1rem auto auto', borderRadius:'100%', objectFit: 'cover', border: '2px solid #021a40', boxShadow: '0px 8px 60px -10px rgba(13, 28, 39, 0.8)'}} src={person.img} />
                             <div>
-                                <h2>{person.name}</h2>
+                                <h2 style={{marginBottom: 0}}>{person.name}</h2>
+                                <h5 style={{margin: 0, color: '#424242'}}>{person.company}</h5>
                                 <p>
                                     {person.description}
                                 </p>
