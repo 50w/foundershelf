@@ -1,3 +1,7 @@
+.founder-card {
+    z-index: 1;
+}
+
 .founder-content {
     display: flex;
     flex-direction: column;
