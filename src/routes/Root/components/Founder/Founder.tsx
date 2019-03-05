@@ -6,7 +6,7 @@ import IconButton from '@material-ui/core/IconButton';
 import CloseIcon from '@material-ui/icons/Close';
 import { unstable_useMediaQuery as useMediaQuery } from '@material-ui/core/useMediaQuery';
 
-import {Person} from '../../../../types'
+import {Person} from '../../../../content/types'
 import {BookGridList} from '../'
 import './Founder.css'
 import { inherits } from 'util';

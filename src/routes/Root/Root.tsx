@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 
 import {AdvancedGridList, Founder} from './components'
-import shelf from '../../shelf';
+import shelf from '../../content/shelf';
 import './Root.css'
-import { Person } from '../../types';
+import { Person } from '../../content/types';
 
 interface Props {
 }
