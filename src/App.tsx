@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import Card from '@material-ui/core/Card';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
 import {Root} from './routes';
 import './App.css';
