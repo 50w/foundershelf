@@ -1,7 +1,6 @@
-import {Shelf, Person, People, Book, Books} from './types'
+import {Book, People} from './types'
 import library from './books'
 
-// Utilities ------------------------------------
 function titlesToBooks(arr: string[]):Book[] {
     const books: Book[] = []
     arr.forEach(element => {
@@ -10,15 +9,6 @@ function titlesToBooks(arr: string[]):Book[] {
     return books
 }
 
-function namesToPeople(arr: string[]):Person[] {
-    const people: Person[] = []
-    arr.forEach(element => {
-        persons[element] ? people.push(persons[element]) : null;
-    });
-    return people
-}
-
-// Data -----------------------------------------
 const persons:People = {
     "Tobias Lütke" : {
         name: "Tobias Lütke",
@@ -289,14 +279,6 @@ const persons:People = {
         'Zero to One: Notes on Startups, or How to Build the Future',
         'Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future']),
     },
-    
-
-
 }
 
-
-const shelf:Shelf = {
-    people: namesToPeople(["Tobias Lütke","Elon Musk", "Jeff Bezos", "Mark Zuckerberg","Bill Gates", "Warren Buffett", "Tim Ferriss", "Oprah Winfrey", "Barack Obama", "Steve Jobs", "Marissa Mayer", "Sheryl Sandberg", "Tony Robbins", "Jack Dorsey", "Casey Neistat"])
-}
-
-export default shelf
+export default persons
