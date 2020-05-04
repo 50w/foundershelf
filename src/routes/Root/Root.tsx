@@ -28,14 +28,24 @@ export function Root() {
   }
 
   function founderSquare({ books, company, description, name, img }: Person) {
-    const [open, setOpen] = useState(false)
-    console.log(open)
+    const [open, setOpen] = useState(false);
+    console.log(open);
     return (
-      <aside onClick={()=> setOpen(!open)}>
-        <img height={150} alt={name} src={img} />
+      <aside onClick={() => setOpen(!open)}>
+        <img
+          style={{
+            height: "150px",
+            width: "150px",
+            objectFit: "cover",
+            objectPosition: "top",
+            borderRadius: '10%',
+          }}
+          alt={name}
+          src={img}
+        />
         <h2>{name}</h2>
-        <h3>{company}</h3>
-        <p>{`${description.substring(0,50)}...`}</p>
+        <h3>🏢{company}</h3>
+        <p>{`${description.substring(0, 50)}...`}</p>
       </aside>
     );
   }
