@@ -85,12 +85,12 @@ function App() {
           const delimiter =
             i === 0 ? " " : i < contributors.length - 1 ? ", " : ", and ";
           return (
-            <>
+            <span key={name}>
               {delimiter}
               <a target="_blank" href={url}>
                 {name}
               </a>
-            </>
+            </span>
           );
         })}
       </p>
