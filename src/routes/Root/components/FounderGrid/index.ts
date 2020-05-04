@@ -1,1 +1,0 @@
-export {FounderGrid} from './FounderGrid';
