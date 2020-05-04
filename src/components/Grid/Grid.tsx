@@ -1,25 +1,16 @@
 import React, { useState } from "react";
 
 import { getRecommendationByFounder } from "../../content/data";
-import "./Root.css";
 import { Person } from "../../content/types";
 
-export function Grid() {
-  const [selected, setSelected] = useState<Person | undefined>();
-  const [detailsOpen, setDetailsOpen] = useState(false);
+interface Props {
+  founders: Person[],
+  selectFounder(founder: Person): void,
+}
 
-  const founderClickOpen = (selected: Person) => {
-    setSelected(selected);
-    setDetailsOpen(true);
-  };
+export function Grid({founders, selectFounder}: Props) {
 
-  const founderClose = () => {
-    setDetailsOpen(false);
-  };
-
-  const founders = getRecommendationByFounder();
-
-  return <div className="persons">{founderGrid(founders)}</div>;
+  return founderGrid(founders);
 
   function founderGrid(founders: Person[]) {
     return (
@@ -27,11 +18,12 @@ export function Grid() {
     );
   }
 
-  function founderSquare({ books, company, description, name, img }: Person) {
+  function founderSquare(founder: Person) {
+    const { books, company, description, name, img } = founder
     const [open, setOpen] = useState(false);
     console.log(open);
     return (
-      <aside onClick={() => setOpen(!open)}>
+      <aside onClick={() => selectFounder(founder)}>
         <img
           style={{
             height: "150px",
