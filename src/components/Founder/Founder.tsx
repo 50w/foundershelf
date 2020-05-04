@@ -47,7 +47,7 @@ export function Founder({
       books &&
       books.map(({ author, img, title }) => {
         return (
-          <aside>
+          <aside key={title}>
             <img
               style={{
                 height: "250px",
