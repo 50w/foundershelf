@@ -31,8 +31,9 @@ export function Founder({
         <h3>🏢{company}</h3>
         <p>{`${description}`}</p>
       </aside>
-      <h1>Recommends:</h1>
+      <hr/>
 
+      <h1>Recommends:</h1>
       <section>
         <hr />
         {renderBookGrid(books)}
