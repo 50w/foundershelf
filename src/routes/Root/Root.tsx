@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 
-import {Founder, FounderGrid} from './components'
 import {getRecommendationByFounder} from '../../content/data';
 import './Root.css'
 import { Person } from '../../content/types';
@@ -19,12 +18,22 @@ export function Root() {
   };
 
   const founders = getRecommendationByFounder()
-    return (
-      <div className="persons">
-        {/* <Founder handleClose={founderClose} person={selected} open={detailsOpen}/> */}
-        <FounderGrid founders={founders} />
-      </div>
-    );
+
+  return (
+    <div className="persons">
+      {founderGrid(founders)}
+    </div>
+  );
+
+  function founderGrid(founders: Person[]) {
+    return <p>{founders.map(founder => founderSquare(founder))}</p>
+  }
+
+  function founderSquare(founder: Person) {
+    return <p>{founder.name}</p>
+  }
+
 }
 
 export default Root;
+
