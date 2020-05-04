@@ -1,41 +1,30 @@
-import React, { Component } from 'react';
+import React, { useState } from 'react';
 
-import {AdvancedGridList, Founder} from './components'
-import shelf from '../../content/shelf';
+import {Founder, FounderGrid} from './components'
+import {getRecommendationByFounder} from '../../content/data';
 import './Root.css'
 import { Person } from '../../content/types';
 
-interface Props {
-}
+export function Root() {
+  const [selected, setSelected] = useState<Person | undefined>()
+  const [detailsOpen, setDetailsOpen] = useState(false)
 
-interface State {
-  selected: Person | null;
-  detailsOpen: boolean;
-}
-
-class Root extends Component<any, State> {
-  state: State = {
-    detailsOpen: false,
-    selected: null,
-  }
-
-  founderClickOpen = (selected: Person) => {
-    this.setState({ selected, detailsOpen: true });
+  const founderClickOpen = (selected: Person)  => {
+    setSelected(selected)
+    setDetailsOpen(true)
   };
 
-  founderClose = () => {
-    this.setState({ detailsOpen: false });
+  const founderClose = () => {
+    setDetailsOpen(false)
   };
 
-  render() {
-    const {selected, detailsOpen} = this.state;
+  const founders = getRecommendationByFounder()
     return (
       <div className="persons">
-        <Founder handleClose={this.founderClose} person={selected} open={detailsOpen}/>
-        <AdvancedGridList selectPerson={this.founderClickOpen} people={shelf.people}/>
+        {/* <Founder handleClose={founderClose} person={selected} open={detailsOpen}/> */}
+        <FounderGrid founders={founders} />
       </div>
     );
-  }
 }
 
 export default Root;
