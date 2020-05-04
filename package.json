@@ -1,5 +1,5 @@
 {
-  "name": "shelf-space",
+  "name": "founder-shelf",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,5 +35,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://foundershelf.space"
+  "homepage": "https://foundershelf.50w.co"
 }
