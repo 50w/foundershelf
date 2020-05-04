@@ -44,7 +44,7 @@ function App() {
         </section>
       </header>
       <hr />
-      <div className="App">
+      <div>
         <Router>
           <Route path="/" component={Root} />
         </Router>
