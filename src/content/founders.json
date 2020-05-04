@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Tobias Lütke",
+    "img": "https://avatars2.githubusercontent.com/u/347?s=400&v=4",
+    "description": "Tobias Lütke (born 1980) is the German-born founder and CEO of Shopify, a commerce company based in Ottawa, Canada. He has served on the core team of the Ruby on Rails framework and has created open source libraries such as Active Merchant.",
+    "company": "Shopify"
+  },
+  {
+    "name": "Elon Musk",
+    "img": "https://amp.businessinsider.com/images/5b7440dcb354cd32108b5396-750-563.jpg",
+    "description": "South African entrepreneur Elon Musk is known for founding Tesla Motors and SpaceX, which launched a landmark commercial spacecraft in 2012.",
+    "company": "Tesla Motors & SpaceX"
+  },
+  {
+    "name": "Jeff Bezos",
+    "img": "https://specials-images.forbesimg.com/imageserve/5b8eb1b3a7ea434b99d54b36/960x0.jpg?fit=scale",
+    "description": "American entrepreneur Jeff Bezos is the founder and chief executive officer of Amazon.com and owner of 'The Washington Post.' His successful business ventures have made him one of the richest people in the world.",
+    "company": "Amazon & The Washington Post"
+  },
+  {
+    "name": "Mark Zuckerberg",
+    "img": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/02/05/13/0.jpg?w968",
+    "description": "Mark Zuckerberg is co-founder and CEO of the social-networking website Facebook, as well as one of the world's youngest billionaires.",
+    "company": "Facebook"
+  },
+  {
+    "name": "Bill Gates",
+    "img": "https://yt3.ggpht.com/a-/AAuE7mD8j66Gv5r4oLf48Ij7PMljbIm_-GrASQ-CSA=s900-mo-c-c0xffffffff-rj-k-no",
+    "description": "Entrepreneur Bill Gates founded the world's largest software business, Microsoft, with Paul Allen, and subsequently became one of the richest men in the world.",
+    "company": "Microsoft"
+  },
+  {
+    "name": "Warren Buffett",
+    "img": "https://cdn-images-1.medium.com/max/1200/1*2Frkle0S00XNwxT6v6EcBg.jpeg",
+    "description": "Known as the \"Oracle of Omaha,\" Warren Buffett is an investment guru and one of the richest and most respected businessmen in the world.",
+    "company": "Berkshire Hathaway"
+  },
+  {
+    "name": "Tim Ferriss",
+    "img": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fbenjaminphardy%2Ffiles%2F2017%2F12%2F1482346021-tim_ferriss_tickets.jpg",
+    "description": "Tim Ferriss is an author, blogger and motivational speaker known for his books The 4-Hour Workweek and The 4-Hour Body.",
+    "company": "Personal brand"
+  },
+  {
+    "name": "Oprah Winfrey",
+    "img": "https://pmcvariety.files.wordpress.com/2015/12/oprah-variety-power-of-women-charity.jpg?w=1000",
+    "description": "Billionaire media giant and philanthropist Oprah Winfrey is best known for hosting her own internationally popular talk show from 1986 to 2011. From there, she launched her own television network, OWN.",
+    "company": "OWN"
+  },
+  {
+    "name": "Barack Obama",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg",
+    "description": "Barack Obama was the 44th president of the United States, and the first African American to serve in the office. First elected to the presidency in 2008, he won a second term in 2012.",
+    "company": "44th US President"
+  },
+  {
+    "name": "Steve Jobs",
+    "img": "https://cdn.vox-cdn.com/thumbor/VkpZk_WQSQvGe9T7YYOZscGsOwI=/0x86:706x557/1200x800/filters:focal(0x86:706x557)/cdn.vox-cdn.com/assets/738480/stevejobs.png",
+    "description": "Steve Jobs co-founded Apple Computers with Steve Wozniak. Under Jobs' guidance, the company pioneered a series of revolutionary technologies, including the iPhone and iPad.",
+    "company": "Apple"
+  },
+  {
+    "name": "Marissa Mayer",
+    "img": "https://media3.s-nbcnews.com/j/newscms/2017_02/1859906/170109-marissa-mayer-rhk-2240p_a0bb23913b2e385f36c4344e0e49fbc6.fit-760w.JPG",
+    "description": "Marissa Mayer led the development of Google's most successful products for more than 10 years and was appointed CEO of Yahoo in 2012, at the age of 37.",
+    "company": "Yahoo"
+  },
+  {
+    "name": "Sheryl Sandberg",
+    "img": "https://www.gsb.stanford.edu/sites/gsb/files/styles/1630x_variable/public/resources/photo-is-vftt-podcast-sandberg-cheryl.jpg?itok=CXRxcEkX",
+    "description": "Sheryl Sandberg is the chief operating officer of Facebook and best-selling author of Lean In: Women, Work, and the Will to Lead.",
+    "company": "Facebook"
+  },
+  {
+    "name": "Tony Robbins",
+    "img": "https://www.gannett-cdn.com/-mm-/615eb9b3dda3f2daf3ceb045278d833fb7918d51/c=0-286-5616-3459/local/-/media/2018/04/08/USATODAY/USATODAY/636588065099060336-XXX--Tony-Robbins--04.JPG?width=3200&height=1680&fit=crop",
+    "description": "Tony Robbins is a motivational speaker who has written popular self-help books and has worked with many public figures.",
+    "company": "Personal Brand"
+  },
+  {
+    "name": "Jack Dorsey",
+    "img": "https://pmcvariety.files.wordpress.com/2016/07/twitter-jack-dorsey-e1533736603829.jpg?w=1000",
+    "description": "Jack Dorsey is an American businessman best known as the founder of the social networking site Twitter.",
+    "company": "Twitter"
+  },
+  {
+    "name": "Casey Neistat",
+    "img": "https://yt3.ggpht.com/a-/AAuE7mBHLI_zMeeeudOv2PoQpYX0lmgwBdhJ2t41bQ=s900-mo-c-c0xffffffff-rj-k-no",
+    "description": "Casey Neistat is an American vlogger, filmmaker, and Founder of the 368 Creative Space.",
+    "company": "368 Creative Space"
+  }
+]
