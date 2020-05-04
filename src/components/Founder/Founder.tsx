@@ -4,15 +4,16 @@ import { Person } from "../../content/types";
 
 interface Props {
   founder: Person;
-  close(): void;
+  unselect(): void;
 }
 
 export function Founder({
   founder: { books, name, img, company, description },
+  unselect, 
 }: Props) {
   return (
     <main>
-      <aside style={{ width: "100%" }} onClick={close}>
+      <aside style={{ width: "100%" }}>
         <nav>
           <img
             style={{
@@ -25,7 +26,7 @@ export function Founder({
             alt={name}
             src={img}
           />
-          <button onClick={close}>x</button>
+          <button onClick={unselect}>x</button>
         </nav>
         <h2>{name}</h2>
         <h3>🏢{company}</h3>
