@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 
-import { getRecommendationByFounder } from "../../content/data";
 import { Person } from "../../content/types";
 
 interface Props {
