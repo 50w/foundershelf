@@ -5,6 +5,8 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 
 import {Root} from './routes';
 import './App.css';
+import './mvp.css';
+
 
 class App extends Component {
   render() {
