@@ -2,6 +2,7 @@ export interface Book {
     title: string;
     author: string;
     img: string;
+    recommendations: Person['name'][]
 }
 
 export interface Books {
@@ -13,7 +14,7 @@ export interface Person {
     img: string;
     description: string;
     company: string;
-    books: Book[];
+    books?: Book[];
 }
 
 export interface People {
