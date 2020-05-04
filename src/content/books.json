@@ -1,0 +1,1088 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/1984-George-Orwell.jpg",
+    "recommendations": ["Steve Jobs"]
+  },
+  {
+    "title": "Mindset",
+    "author": "Carol Dweck",
+    "img": "https://images.gr-assets.com/books/1364251156l/1307582.jpg",
+    "recommendations": ["Tobias Lütke"]
+  },
+  {
+    "title": "Thinking in Systems",
+    "author": "Donella Meadows",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/61npQHfWgAL.jpg",
+    "recommendations": ["Tobias Lütke"]
+  },
+  {
+    "title": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
+    "author": "Matthew Walker",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81w6RZ6xm1L.jpg",
+    "recommendations": ["Tobias Lütke"]
+  },
+  {
+    "title": "The Remains of the Day",
+    "author": "Kazuo Ishiguro",
+    "img": "https://sc.cnbcfm.com/applications/cnbc.com/resources/files/2017/03/28/71d9G7xwaLL.jpg",
+    "recommendations": ["Jeff Bezos"]
+  },
+  {
+    "title": "Built to Last: Successful Habits of Visionary Companies",
+    "author": "Jim Collins",
+    "img": "https://sc.cnbcfm.com/applications/cnbc.com/resources/files/2017/03/28/412OMhMA+lL._SX330_BO1,204,203,200_.jpg",
+    "recommendations": ["Jeff Bezos"]
+  },
+  {
+    "title": "Creation: Life and How to Make It",
+    "author": "Steve Grand",
+    "img": "https://sc.cnbcfm.com/applications/cnbc.com/resources/files/2017/03/28/41Y5MRAJP9L._SX328_BO1,204,203,200_.jpg",
+    "recommendations": ["Jeff Bezos"]
+  },
+  {
+    "title": "Good to Great: Why Some Companies Make the Leap … and Others Don't",
+    "author": "Jim Collins",
+    "img": "https://sc.cnbcfm.com/applications/cnbc.com/resources/files/2017/03/28/41VrxaCVU2L.jpg",
+    "recommendations": ["Jeff Bezos"]
+  },
+  {
+    "title": "The Innovator's Dilemma",
+    "author": "Clayton Christensen",
+    "img": "https://sc.cnbcfm.com/applications/cnbc.com/resources/files/2016/09/28/TB-3_The_Innovators_Dilemma.jpg",
+    "recommendations": ["Jeff Bezos"]
+  },
+  {
+    "title": "Sam Walton: Made in America",
+    "author": "Sam Walton",
+    "img": "https://sc.cnbcfm.com/applications/cnbc.com/resources/files/2017/03/28/51hdHY1gTSL._SX299_BO1,204,203,200_.jpg",
+    "recommendations": ["Jeff Bezos"]
+  },
+  {
+    "title": "The Mythical Man-Month",
+    "author": "Frederick P. Brooks, Jr.",
+    "img": "https://sc.cnbcfm.com/applications/cnbc.com/resources/files/2017/03/28/51XnDL5KC+L._SX334_BO1,204,203,200_.jpg",
+    "recommendations": ["Jeff Bezos"]
+  },
+  {
+    "title": "Buffett: The Making of an American Capitalist",
+    "author": "Roger Lowenstein",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2019/02/Buffett-The-Making-of-an-American-Capitalist-Roger-Lowenstein.jpeg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies",
+    "author": "Reid Hoffman, Chris Yeh",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2019/01/Blitzscaling-Reid-Hoffman-Chris-Yeh.jpg",
+    "recommendations": ["Bill Gates", "Sheryl Sandberg"]
+  },
+  {
+    "title": "The Headspace Guide to Meditation and Mindfulness: How Mindfulness Can Change Your Life in Ten Minutes a Day",
+    "author": "Andy Puddicombe",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/The-Headspace-Guide-to-Meditation-and-Mindfulness-How-Mindfulness-Can-Change-Your-Life-in-Ten-Minutes-a-Day.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "Army of None: Autonomous Weapons and the Future of War",
+    "author": "Paul Scharre",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/Army-of-None-Autonomous-Weapons-and-the-Future-of-War.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "Educated: A Memoir",
+    "author": "Tara Westover",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/Educated-A-Memoir-by-Tara-Westover.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "The Magic of Reality: How We Know What’s Really True",
+    "author": "Richard Dawkins",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/The-Magic-of-Reality-How-We-Know-Whats-Really-True.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "How to Lie with Statistics",
+    "author": "Darrell Huff",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/How-to-Lie-with-Statistics.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "On Immunity: An Inoculation",
+    "author": "Eula Biss",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/On-Immunity-by-Eula-Biss.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "Collapse: How Societies Choose to Fail or Succeed",
+    "author": "Jared Diamond",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/Collapse-How-Societies-Choose-to-Fail-or-Succeed.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World With OKRs",
+    "author": "John Doerr",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/Measure-What-Matters-by-John-Doerr.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "Winners Take It All: The Elite Charade of Changing the World",
+    "author": "Anand Giridharadas",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/11/Winners-Take-All-The-Elite-Charade-of-Changing-the-World.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "Enlightenment Now: The Case for Reason, Science, Humanism, and Progress",
+    "author": "Steven Pinker",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/11/Enlightenment-Now-The-Case-for-Reason-Science-Humanism-and-Progress.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "21 Lessons for the 21st Century",
+    "author": "Yuval Noah Harari",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/09/21-Lessons-for-the-21st-Century-Yuval-Noah-Harari.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+    "author": "John Carreyrou",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/05/Bad-Blood-Secrets-and-Lies-in-a-Silicon-Valley-Startup-by-John-Carreyrou.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "Origin Story: A Big History of Everything",
+    "author": "David Christian",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/05/Origin-Story-A-Big-History-of-Everything-by-David-Christian.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "Lincoln in the Bardo",
+    "author": "George Saunders",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/05/Lincoln-in-the-Bardo-by-George-Saunders.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "Everything Happens for a Reason and Other Lies I’ve Loved",
+    "author": "Kate Bowler",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/05/Everything-Happens-for-a-Reason-and-Other-Lies-Ive-Loved-by-Kate-Bowler.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "Factfulness: Ten Reasons We’re Wrong about the World–and Why Things Are Better Than You Think",
+    "author": "Hans Rosling, Anna Rosling Ronnlund, Ola Rosling ",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/04/Factfulness-Ten-Reasons-Were-Wrong-About-the-World—and-Why-Things-Are-Better-Than-You-Think-by-Hans-Rosling-Anna-Rosling-Ronnlund-Ola-Rosling.jpg",
+    "recommendations": ["Bill Gates"]
+  },
+  {
+    "title": "Mastering the Market Cycle: Getting the Odds on Your Side",
+    "author": "Howard Marks",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2019/02/Mastering-the-Market-Cycle-Getting-the-Odds-on-Your-Side-Howard-Marks.jpeg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "The Essays of Warren Buffett: Lessons for Corporate America",
+    "author": "Warren Buffett, Lawrence A. Cunningham",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/The-Essays-of-Warren-Buffett-Lessons-for-Corporate-America-Fourth-Edition-Warren-E.-Buffett-Lawrence-A.-Cunningham.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "Nuclear Terrorism",
+    "author": "Graham Allison",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Nuclear-Terrorism-Graham-Allison.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "Take on the Street: How to Fight for Your Financial Future",
+    "author": "Arthur Levitt",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Take-on-the-Street-How-to-Fight-for-Your-Financial-Future-Arthur-Levitt.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "First a Dream",
+    "author": "Jim Clayton, Bill Retherford",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/First-a-dream-Jim-Clayton.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "DREAM BIG",
+    "author": "Cristiane Correa",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Dream-Big-Cristian-Correa.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "The Most Important Thing Illuminated: Uncommon Sense for the Thoughtful Investor",
+    "author": "Howard Marks",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Most-Important-Thing-Illuminated-Howard-Marks.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "Poor Charlie’s Almanack: The Wit and Wisdom of Charles T. Munger",
+    "author": "Peter D. Kaufman, Charlie Munger",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Poor-Charlie-s-Almanack-Charlie-Munger-Peter-D.-Kaufman.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns",
+    "author": "John C. Bogle",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Little-Book-of-Common-Sense-Investing-John-C.-Bogle.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "Essays in Persuasion",
+    "author": "John Maynard Keynes",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Essays-in-Persuasion-John-Maynard-Keynes.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "Where Are the Customers’ Yachts?: or A Good Hard Look at Wall Street",
+    "author": "Fred Schwed",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Where-Are-the-Customers-Yachts-A-Good-Hard-Look-at-Wall-Street-Fred-Schwed.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "The Clash of the Cultures: Investment vs. Speculation",
+    "author": "John C. Bogle",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Clash-of-the-Cultures-John-C.-Bogle.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success",
+    "author": "William N. Thorndike",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Outsiders-William-N-Thorndike.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "Stress Test: Reflections on Financial Crises",
+    "author": "Tim Geithner",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Stress-Test-Reflections-on-Financial-Crises-Timothy-F-Geithner.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "Common Stocks and Uncommon Profits",
+    "author": "Philip Fisher",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Common-Stocks-and-Uncommon-Profits-Philip-A-Fisher.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "Security Analysis",
+    "author": "Benjamin Graham",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Security-Analysis-Benjamin-Graham.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Intelligent-Investor-Benjamin-Graham.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "Business Adventures: Twelve Classic Tales from the World of Wall Street",
+    "author": "John Brooks",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Business-Adventures-Twelve-Classic-Tales-from-the-World-of-Wall-Street-John-Brooks.jpg",
+    "recommendations": ["Warren Buffett"]
+  },
+  {
+    "title": "Zero to One: Notes on Startups, or How to Build the Future",
+    "author": "Peter Thiel, Blake Masters",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Zero-to-One-Notes-on-Startups-or-How-to-Build-the-Future-Peter-Thiel.jpg",
+    "recommendations": ["Elon Musk", "Mark Zuckerberg", "Casey Neistat"]
+  },
+  {
+    "title": "Ender’s Game",
+    "author": "Orson Scott Card",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Enders-Game-Orson-Scott-Card.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
+    "author": "Daron Acemoglu, James Robinson",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Why-Nations-Fail-The-Origins-of-Power-Prosperity-and-Poverty-Daron-Acemoglu-James-Robinson.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "Genome: The Autobiography of a Species in 23 Chapters",
+    "author": "Matt Ridley",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Genome-The-Autobiography-of-a-Species-in-23-Chapters-Matt-Ridley.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "Portfolios of the Poor: How the World’s Poor Live on $2 a Day",
+    "author": "Daryl Collins, Jonathan Morduch, Stuart Rutherford, Orlanda Ruthven",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Portfolios-of-the-Poor-How-the-Worlds-Poor-Live-on-2-a-Day-Daryl-Collins-Jonathan-Morduch-Stuart-Rutherford-Orlanda-Ruthven.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "Orwell’s Revenge: The 1984 Palimpsest",
+    "author": "Peter Huber",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Orwells-Revenge-The-1984-Palimpsest-Peter-Huber.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "Rational Ritual: Culture, Coordination, and Common Knowledge",
+    "author": "Michael Suk-Young Chwe",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Rational-Ritual-Culture-Coordination-and-Common-Knowledge-Michael-Suk-Young-Chwe.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "The Muqaddimah",
+    "author": "Ibn Khaldun",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Muqaddimah-Ibn-Khaldun.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "The Player Of Games",
+    "author": "Iain M. Banks",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Player-Of-Games-Iain-M.-Banks.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "The Beginning of Infinity: Explanations That Transform the World",
+    "author": "David Deutsch",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Beginning-of-Infinity-Explanations-That-Transform-the-World-David-Deutsch.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "World Order",
+    "author": "Henry Kissinger",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/World-Order-Henry-Kissinger.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "The Idea Factory: Bell Labs and the Great Age of American Innovation",
+    "author": "Jon Gertner",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Idea-Factory-Bell-Labs-and-the-Great-Age-of-American-Innovation-Jon-Gertner.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "William James: Writings 1902-1910",
+    "author": "William James",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/William-James-Writings-William-James.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "The Better Angels of Our Nature: Why Violence Has Declined",
+    "author": "Steven Pinker",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Better-Angels-of-Our-Nature-Why-Violence-Has-Declined-Steven-Pinker.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "The Three-Body Problem",
+    "author": "Cixin Liu",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Three-Body-Problem-Cixin-Liu.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "Gang Leader for a Day: A Rogue Sociologist Takes to the Streets",
+    "author": "Sudhir Venkatesh",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Gang-Leader-for-a-Day-A-Rogue-Sociologist-Takes-to-the-Streets-Sudhir-Venkatesh.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "Energy: A Beginner’s Guide",
+    "author": "Vaclav Smil",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Energy-A-Beginners-Guide-Vaclav-Smil.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "The Structure of Scientific Revolutions",
+    "author": "Thomas S. Kuhn",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Structure-of-Scientific-Revolutions-Thomas-S.-Kuhn.jpg",
+    "recommendations": ["Mark Zuckerberg"]
+  },
+  {
+    "title": "Live Your Truth",
+    "author": "Kamal Ravikant",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2019/02/Live-Your-Truth-Kamal-Ravikant.jpeg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life",
+    "author": "Scott Adams",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2019/01/How-to-Fail-at-Almost-Everything-and-Still-Win-Big-Kind-of-the-Story-of-My-Life-Scott-Adams.jpeg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "Radical Acceptance: Embracing Your Life With the Heart of a Buddha",
+    "author": "Tara Brach",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2019/01/Radical-Acceptance-Embracing-Your-Life-With-the-Heart-of-a-Buddha-Tara-Brach.jpeg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "Bad Science: Quacks, Hacks, and Big Pharma Flacks",
+    "author": "Ben Goldacre",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/Bad-Science-Quacks-Hacks-and-Big-Pharma-Flacks.jpg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "A talk about depression &amp; suicide among entrepreneurs: Tim Ferriss &amp; Peter Attia",
+    "author": "",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/07/Peter-Attia-Tim-Ferriss-podcast-The-Drive.jpg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "Tribe of Mentors: Short Life Advice from the Best in the World",
+    "author": "Tim Ferriss",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/11/Tribe-of-Mentors-Short-Life-Advice-from-the-Best-in-the-World-Tim-Ferriss.jpg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers",
+    "author": "Tim Ferriss",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/Tools-of-Titans-The-Tactics-Routines-and-Habits-of-Billionaires-Icons-and-World-Class-Performers-Tim-Ferriss.jpg",
+    "recommendations": ["Tim Ferriss", "Tony Robbins"]
+  },
+  {
+    "title": "The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life",
+    "author": "Tim Ferriss",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/The-4-Hour-Chef-Tim-Ferriss.jpg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "The 4 Hour Body: An Uncommon Guide to Rapid Fat Loss, Incredible Sex and Becoming Superhuman",
+    "author": "Tim Ferriss",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/02/The-4-Hour-Body-An-Uncommon-Guide-to-Rapid-Fat-Loss-Incredible-Sex-and-Becoming-Superhuman-by-Timothy-Ferriss.jpg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich",
+    "author": "Tim Ferriss",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/09/The-4-Hour-Workweek-Tim-Ferriss.jpg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "Growth Hacker Marketing",
+    "author": "Ryan Holiday",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/09/Growth-Hacker-Marketing-Ryan-Holiday.jpg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "Trust Me, I’m Lying: Confessions of a Media Manipulator",
+    "author": "Ryan Holiday",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/09/Trust-Me-I-m-Lying-Confessions-of-a-Media-Manipulator-Ryan-Holiday.jpg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "The Art of Asking: How I Learned to Stop Worrying and Let People Help",
+    "author": "Amanda Palmer",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/01/The-Art-of-Asking-How-I-Learned-to-Stop-Worrying-and-Let-People-Help-Amanda-Palmer.jpg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "The Year Without Pants: WordPress.com and the Future of Work",
+    "author": "Scott Berkun",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/11/The-Year-Without-Pants-Scott-Berkun.jpg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "The Brief Wondrous Life of Oscar Wao",
+    "author": "Junot Diaz",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/The-Brief-Wondrous-Life-of-Oscar-Wao-Junot-Diaz.jpg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "High Fidelity",
+    "author": "Nick Hornby",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/High-Fidelity-Nick-Hornby.jpg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "Musashi",
+    "author": "Eiji Yoshikawa",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/Musashi-Eiji-Yoshikawa.jpg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "Discipline Equals Freedom: Field Manual",
+    "author": "Jocko Willink",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/Discipline-Equals-Freedom-Field-Manual-Jocko-Willink.jpg",
+    "recommendations": ["Tim Ferriss"]
+  },
+  {
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/12/East-of-Eden-John-Steinbeck.jpg",
+    "recommendations": ["Oprah Winfrey"]
+  },
+  {
+    "title": "We Were the Mulvaneys",
+    "author": "Joyce Carol Oates",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/12/We-Were-the-Mulvaneys-Joyce-Carol-Oates.jpg",
+    "recommendations": ["Oprah Winfrey"]
+  },
+  {
+    "title": "The Story of Edgar Sawtelle",
+    "author": "Edgar Sawtelle",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/12/The-Story-of-Edgar-Sawtelle-David-Wroblewski.jpg",
+    "recommendations": ["Oprah Winfrey"]
+  },
+  {
+    "title": "The Pillars of the Earth",
+    "author": "Ken Follett",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/12/The-Pillars-of-the-Earth-Ken-Follett.jpg",
+    "recommendations": ["Oprah Winfrey"]
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/12/The-Road-Cormac-McCarthy.jpg",
+    "recommendations": ["Oprah Winfrey"]
+  },
+  {
+    "title": "White Oleander",
+    "author": "Janet Finch",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/12/White-Oleander-Janet-Finch.jpg",
+    "recommendations": ["Oprah Winfrey"]
+  },
+  {
+    "title": "The Good Earth",
+    "author": "Pearl S. Buck",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/12/The-Good-Earth-Pearl-S.-Buck.jpg",
+    "recommendations": ["Oprah Winfrey"]
+  },
+  {
+    "title": "The Measure of a Man",
+    "author": "Sidney Poitier",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/12/The-Measure-of-a-Man-Sidney-Poitier.jpg",
+    "recommendations": ["Oprah Winfrey"]
+  },
+  {
+    "title": "The Heart Is a Lonely Hunter",
+    "author": "Carson McCullers",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/12/The-Heart-Is-a-Lonely-Hunter-Carson-McCullers.jpg",
+    "recommendations": ["Oprah Winfrey"]
+  },
+  {
+    "title": "The Corrections",
+    "author": "Jonathan Franzen",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/12/The-Corrections-Jonathan-Franzen.jpg",
+    "recommendations": ["Oprah Winfrey"]
+  },
+  {
+    "title": "The Deep End of the Ocean",
+    "author": "Jacquelyn Mitchard",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/12/The-Deep-End-of-the-Ocean-Jacquelyn-Mitchard.jpg",
+    "recommendations": ["Oprah Winfrey"]
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/One-Hundred-Years-of-Solitude-Gabriel-Garcia-Marquez.jpg",
+    "recommendations": ["Oprah Winfrey"]
+  },
+  {
+    "title": "Freedom",
+    "author": "Jonathan Franzen",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Freedom-Jonathan-Franzen.jpg",
+    "recommendations": ["Oprah Winfrey"]
+  },
+  {
+    "title": "The World as It Is: A Memoir of the Obama White House",
+    "author": "Ben Rhodes",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/The-World-as-It-Is-A-Memoir-of-the-Obama-White-House-Ben-Rhodes.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "Why Liberalism Failed",
+    "author": "Patrick J. Deneen",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/Why-Liberalism-Failed-Patrick-J.-Deneen.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "Warlight: A novel",
+    "author": "Michael Ondaatje",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/Warlight-A-Novel-Michael-Ondaatje.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "Things Fall Apart",
+    "author": "Chinua Achebe",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/Things-Fall-Apart-Chinua-Achebe.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "The Return: Fathers, Sons and the Land in Between",
+    "author": "Hisham Matar",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/The-Return-Fathers-Sons-and-the-Land-in-Between-Hisham-Matar.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "The New Geography of Jobs",
+    "author": "Enrico Moretti",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/The-New-Geography-of-Jobs-Enrico-Moretti.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "In the Shadow of Statues: A White Southerner Confronts History",
+    "author": "Mitch Landrieu",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/In-the-Shadow-of-Statues-A-White-Southerner-Confronts-History-Mitch-Landrieu.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "How Democracies Die",
+    "author": "Steven Levitsky, Daniel Ziblatt",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/How-Democracies-Die-Steven-Levitsky-Daniel-Ziblatt.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "A House for Mr. Biswas",
+    "author": "V. S. Naipaul",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/A-House-for-Mr.-Biswas-V.-S.-Naipaul.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "A Grain of Wheat",
+    "author": "Ngugi wa Thiong’o",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/A-Grain-of-Wheat-Ngugi-wa-Thiongo.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "Futureface: A Family Mystery, an Epic Quest, and the Secret to Belonging",
+    "author": "Alex Wagner",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/Futureface-A-Family-Mystery-an-Epic-Quest-and-the-Secret-to-Belonging-Alex-Wagner.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "The Broken Ladder: How Inequality Affects the Way We Think, Live, and Die",
+    "author": "Keith Payne",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/The-Broken-Ladder-How-Inequality-Affects-the-Way-We-Think-Live-and-Die-Keith-Payne.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "An American Marriage: A Novel",
+    "author": "Tayari Jones",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/An-American-Marriage-A-Novel-Tayari-Jones.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "Washington Black: A novel",
+    "author": "Esi Edugyan",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/Washington-Black-A-novel-Esi-Edugyan.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "There There: A novel",
+    "author": "Tommy Orange",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/There-There-A-novel-Tommy-Orange.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "Life 3.0: Being Human in the Age of Artificial Intelligence",
+    "author": "Max Tegmark",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/Life-3.0-Being-Human-in-the-Age-of-Artificial-Intelligence-Max-Tegmark.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "The Largesse of the Sea Maiden: Stories",
+    "author": "Denis Johnson",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/The-Largesse-of-the-Sea-Maiden-Stories-Denis-Johnson.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "Immigrant, Montana: A novel",
+    "author": "Amitava Kumar",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/Immigrant-Montana-A-novel-Amitava-Kumar.jpeg",
+    "recommendations": ["Barack Obama"]
+  },
+  {
+    "title": "Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company",
+    "author": "Andrew S. Grove",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Only-the-Paranoid-Survive-Andrew-S-Grove.jpg",
+    "recommendations": ["Steve Jobs"]
+  },
+  {
+    "title": "Cutting Through Spiritual Materialism",
+    "author": "Chogyam Trungpa",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Cutting-Through-Spiritual-Materialism-Chogyam-Trungpa.jpg",
+    "recommendations": ["Steve Jobs"]
+  },
+  {
+    "title": "Cosmic Consciousness: A Study in the Evolution of the Human Mind",
+    "author": "Richard Maurice Bucke",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Cosmic-Consciousness-A-Study-in-the-Evolution-of-the-Human-Mind-Richard-Maurice-Bucke.jpg",
+    "recommendations": ["Steve Jobs"]
+  },
+  {
+    "title": "Mucusless Diet Healing System",
+    "author": "Arnold Ehret",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Mucusless-Diet-Healing-System-Arnold-Ehret.jpg",
+    "recommendations": ["Steve Jobs"]
+  },
+  {
+    "title": "Diet for a Small Planet",
+    "author": "Frances Moore Lappe",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Diet-for-a-small-planet-Frances-Moore-Lappe.jpg",
+    "recommendations": ["Steve Jobs"]
+  },
+  {
+    "title": "The Tao of Programming",
+    "author": "Geoffrey James",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Tao-Of-Programming-Geoffrey-James.jpg",
+    "recommendations": ["Steve Jobs"]
+  },
+  {
+    "title": "King Lear",
+    "author": "William Shakespeare",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/King-Lear-William-Shakespeare.jpg",
+    "recommendations": ["Steve Jobs"]
+  },
+  {
+    "title": "Zen Mind, Beginner’s Mind: Informal Talks on Zen Meditation and Practice",
+    "author": "Shunryu Suzuki",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Zen-Mind-Beginners-Mind-Shunryu-Suzuki.jpg",
+    "recommendations": ["Steve Jobs"]
+  },
+  {
+    "title": "Be Here Now",
+    "author": "Ram Dass",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Be-Here-Now-Ram-Dass.jpg",
+    "recommendations": ["Steve Jobs"]
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Moby-Dick-Herman-Melville.jpg",
+    "recommendations": ["Steve Jobs"]
+  },
+  {
+    "title": "Autobiography of a Yogi",
+    "author": "Paramahansa Yogananda",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Autobiography-of-a-Yogi-Paramahansa-Yogananda.jpg",
+    "recommendations": ["Steve Jobs"]
+  },
+  {
+    "title": "Atlas Shrugged",
+    "author": "Ayn Rand",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/07/Atlas-Shrugged-Ayn-Rand.jpg",
+    "recommendations": ["Steve Jobs"]
+  },
+  {
+    "title": "The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail",
+    "author": "Clayton Christensen",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/07/The-Innovators-Dilemma-When-New-Technologies-Cause-Great-Firms-to-Fail-Management-of-Innovation-and-Change-Clayton-Christensen.jpg",
+    "recommendations": ["Steve Jobs"]
+  },
+  {
+    "title": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/The-Design-of-Everyday-Things-Don-Norman.jpg",
+    "recommendations": ["Marissa Mayer"]
+  },
+  {
+    "title": "The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism",
+    "author": "Olivia Fox Cabane",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/The-Charisma-Myth-Olivia-Fox-Cabane.jpg",
+    "recommendations": ["Marissa Mayer"]
+  },
+  {
+    "title": "Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.",
+    "author": "Brene Brown",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/11/Dare-to-Lead-Brave-Work.-Tough-Conversations.-Whole-Hearts.jpg",
+    "recommendations": ["Sheryl Sandberg"]
+  },
+  {
+    "title": "Option B: Facing Adversity, Building Resilience, and Finding Joy",
+    "author": "Sheryl Sandberg, Adam Grant",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/04/Option-B-Facing-Adversity-Building-Resilience-and-Finding-Joy-by-Sheryl-Sandberg-Adam-Grant.jpg",
+    "recommendations": ["Sheryl Sandberg"]
+  },
+  {
+    "title": "The Start-up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career",
+    "author": "Reid Hoffman, Ben Casnocha",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/12/The-Start-up-of-You-Reid-Hoffman-Ben-Casnocha.jpg",
+    "recommendations": ["Sheryl Sandberg", "Jack Dorsey"]
+  },
+  {
+    "title": "Home Game: An Accidental Guide to Fatherhood",
+    "author": "Michael Lewis",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/Home-Game-An-Accidental-Guide-to-Fatherhood-Michael-Lewis.jpg",
+    "recommendations": ["Sheryl Sandberg"]
+  },
+  {
+    "title": "Bossypants",
+    "author": "Tina Fey",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/Bossypants-Tina-Fey.jpg",
+    "recommendations": ["Sheryl Sandberg"]
+  },
+  {
+    "title": "Now, Discover Your Strengths: How To Develop Your Talents And Those Of The People You Manage",
+    "author": "Marcus Buckingham, Donald O. Clifton",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/Now-Discover-Your-Strengths-Marcus-Buckingham-Donald-O.-Clifton.jpg",
+    "recommendations": ["Sheryl Sandberg"]
+  },
+  {
+    "title": "The Big Short: Inside the Doomsday Machine",
+    "author": "Michael Lewis",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/The-Big-Short-Michael-Lewis.jpg",
+    "recommendations": ["Sheryl Sandberg"]
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/09/The-Lean-Startup-Eric-Ries.jpg",
+    "recommendations": ["Sheryl Sandberg"]
+  },
+  {
+    "title": "The Sleep Revolution: Transforming Your Life, One Night at a Time",
+    "author": "Arianna Huffington",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Sleep-Revolution-Transforming-Your-Life-One-Night-at-a-Time-Arianna-Huffington.jpg",
+    "recommendations": ["Sheryl Sandberg"]
+  },
+  {
+    "title": "Lean In: Women, Work, and the Will to Lead",
+    "author": "Sheryl Sandberg",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/07/Lean-In-Women-Work-and-the-Will-to-Lead-Sheryl-Sandberg.jpg",
+    "recommendations": ["Sheryl Sandberg"]
+  },
+  {
+    "title": "Moonshots: Creating a World of Abundance",
+    "author": "Naveen Jain",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/10/Moonshots-Naveen-Jain.jpg",
+    "recommendations": ["Tony Robbins"]
+  },
+  {
+    "title": "Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny!",
+    "author": "Tony Robbins",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/06/Awaken-the-Giant-Within-How-to-Take-Immediate-Control-of-Your-Mental-Emotional-Physical-and-Financial-Destiny-by-Tony-Robbins.jpg",
+    "recommendations": ["Tony Robbins"]
+  },
+  {
+    "title": "Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want",
+    "author": "Michael Hyatt, Daniel Harkavy",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/11/Living-Forward-Michael-Hyatt-Daniel-Harkavy.jpg",
+    "recommendations": ["Tony Robbins"]
+  },
+  {
+    "title": "Principles: Life and Work",
+    "author": "Ray Dalio",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/Principles-Ray-Dalio.jpg",
+    "recommendations": ["Tony Robbins", "Jack Dorsey"]
+  },
+  {
+    "title": "Unlimited Power: The New Science of Personal Achievement",
+    "author": "Tony Robbins",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/Unlimited-Power-The-New-Science-of-Personal-Achievement-Tony-Robbins.jpg",
+    "recommendations": ["Tony Robbins"]
+  },
+  {
+    "title": "Unshakeable: Your Financial Freedom Playbook",
+    "author": "Tony Robbins",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/09/Unshakeable-Your-Financial-Freedom-Playbook-Tony-Robbins.jpg",
+    "recommendations": ["Tony Robbins"]
+  },
+  {
+    "title": "MONEY Master the Game: 7 Simple Steps to Financial Freedom",
+    "author": "Tony Robbins",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/09/MONEY-Master-the-Game-7-Simple-Steps-to-Financial-Freedom-Tony-Robbins.jpg",
+    "recommendations": ["Tony Robbins"]
+  },
+  {
+    "title": "As a Man Thinketh",
+    "author": "James Allen",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/09/As-A-Man-Thinketh-James-Allen.jpg",
+    "recommendations": ["Tony Robbins"]
+  },
+  {
+    "title": "The Fourth Turning: An American Prophecy – What the Cycles of History Tell Us About America’s Next Rendezvous with Destiny",
+    "author": "William Strauss, Neil Howe",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/09/The-Fourth-Turning-William-Strauss-Neil-Howe.jpg",
+    "recommendations": ["Tony Robbins"]
+  },
+  {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/07/Mans-Search-for-Meaning-The-Classic-Tribute-to-Hope-from-the-Holocaust-Viktor-E.-Frankl.jpg",
+    "recommendations": ["Tony Robbins"]
+  },
+  {
+    "title": "Mindset: The New Psychology of Success",
+    "author": "Carol S. Dweck",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/07/Mindset-The-New-Psychology-of-Success-Carol-S.-Dweck.jpg",
+    "recommendations": ["Tony Robbins", "Jack Dorsey"]
+  },
+  {
+    "title": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+    "author": "Simon Sinek",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/07/Start-with-Why-How-Great-Leaders-Inspire-Everyone-to-Take-Action-Simon-Sinek.jpg",
+    "recommendations": ["Tony Robbins"]
+  },
+  {
+    "title": "Leaves of Grass",
+    "author": "Walt Whitman",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/Leaves-of-Grass-Walt-Whitman.jpg",
+    "recommendations": ["Jack Dorsey"]
+  },
+  {
+    "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+    "author": "Don Miguel Ruiz",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/The-Four-Agreements-A-Practical-Guide-to-Personal-Freedom-Don-Miguel-Ruiz.jpg",
+    "recommendations": ["Jack Dorsey"]
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/The-Old-Man-and-the-Sea-Ernest-Hemingway.jpg",
+    "recommendations": ["Jack Dorsey"]
+  },
+  {
+    "title": "The Art Spirit",
+    "author": "Robert Henri",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/09/The-Art-Spirit-Robert-Henri.jpg",
+    "recommendations": ["Jack Dorsey"]
+  },
+  {
+    "title": "The Score Takes Care of Itself: My Philosophy of Leadership",
+    "author": "Bill Walsh, Steve Jamison, Craig Walsh",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Score-Takes-Care-of-Itself-My-Philosophy-of-Leadership-Bill-Walsh.jpg",
+    "recommendations": ["Jack Dorsey"]
+  },
+  {
+    "title": "Tao Te Ching",
+    "author": "Lao Tzu",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Tao-Te-Ching-Lao-Tzu.jpg",
+    "recommendations": ["Jack Dorsey"]
+  },
+  {
+    "title": "Between the World and Me",
+    "author": "Ta-Nehisi Coates",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Between-the-World-and-Me-Ta-Nehisi-Coates.jpg",
+    "recommendations": ["Jack Dorsey"]
+  },
+  {
+    "title": "If the Universe Is Teeming with Aliens WHERE IS EVERYBODY?: Fifty Solutions to the Fermi Paradox and the Problem of Extraterrestrial Life",
+    "author": "Stephen Webb",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/05/If-the-Universe-Is-Teeming-with-Aliens-WHERE-IS-EVERYBODY-Fifty-Solutions-to-the-Fermi-Paradox-and-the-Problem-of-Extraterrestrial-Life-by-Stephen-Webb.jpg",
+    "recommendations": ["Elon Musk"]
+  },
+  {
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow, Yoshua Bengio,  Aaron Courville",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/Deep-Learning-Ian-Goodfellow.jpg",
+    "recommendations": ["Elon Musk"]
+  },
+  {
+    "title": "Merchants of Doubt",
+    "author": "Naomi Orestes, Erik M. Conway",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/09/Merchants-of-Doubt-Naomi-Orestes-and-Erik-M.-Conway.jpg",
+    "recommendations": ["Elon Musk"]
+  },
+  {
+    "title": "Our Final Invention: Artificial Intelligence and the End of the Human Era",
+    "author": "James Barrat",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Our-Final-Invention-Artificial-Intelligence-and-the-End-of-the-Human-Era-James-Barrat.jpg",
+    "recommendations": ["Elon Musk"]
+  },
+  {
+    "title": "The Culture",
+    "author": "Iain M. Banks",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Consider-Phlebas-The-Culture-Series-Iain-M-Banks.jpg",
+    "recommendations": ["Elon Musk"]
+  },
+  {
+    "title": "The Hitchhiker’s Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Hitchhikers-Guide-to-the-Galaxy-Douglas-Adams.jpg",
+    "recommendations": ["Elon Musk"]
+  },
+  {
+    "title": "My Inventions: The Autobiography of Nikola Tesla",
+    "author": "Nikola Tesla",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/My-Inventions-The-Autobiography-of-Nikola-Tesla.jpg",
+    "recommendations": ["Elon Musk"]
+  },
+  {
+    "title": "Howard Hughes: His Life and Madness",
+    "author": "Donald L. Barlett, James B. Steele",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Howard-Hughes-His-Life-and-Madness-Donald-L-Barlett-James-B-Steele.jpg",
+    "recommendations": ["Elon Musk"]
+  },
+  {
+    "title": "Ignition!: An informal history of liquid rocket propellants",
+    "author": "John D. Clark",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Ignition-John-D.-Clark.jpg",
+    "recommendations": ["Elon Musk"]
+  },
+  {
+    "title": "The Foundation",
+    "author": "Isaac Asimov",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Foundation-Isaac-Asimov.jpg",
+    "recommendations": ["Elon Musk"]
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J. R. R. Tolkien",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/The-Lord-of-the-Rings-J.-R.-R.-Tolkien.jpg",
+    "recommendations": ["Elon Musk"]
+  },
+  {
+    "title": "Einstein: His Life and Universe",
+    "author": "Walter Isaacson",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Einstein-His-Life-and-Universe-Walter-Isaacson.jpg",
+    "recommendations": ["Elon Musk"]
+  },
+  {
+    "title": "Benjamin Franklin: An American Life",
+    "author": "Walter Isaacson",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Benjamin-Franklin-An-American-Life-Walter-Isaacson.jpg",
+    "recommendations": ["Elon Musk"]
+  },
+  {
+    "title": "Superintelligence: Paths, Dangers, Strategies",
+    "author": "Nick Bostrom",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Superintelligence-Paths-Dangers-Strategies-Nick-Bostrom.jpg",
+    "recommendations": ["Elon Musk"]
+  },
+  {
+    "title": "Structures: Or Why Things Don’t Fall Down",
+    "author": "J.E. Gordon",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/07/Structures-Or-Why-Things-Dont-Fall-Down-J.-E.-Gordon.jpg",
+    "recommendations": ["Elon Musk"]
+  },
+  {
+    "title": "How to Turn Down a Billion Dollars: The Snapchat Story",
+    "author": "Billy Gallagher",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/How-to-Turn-Down-a-Billion-Dollars-The-Snapchat-Story.jpg",
+    "recommendations": ["Casey Neistat"]
+  },
+  {
+    "title": "Crushing It!: How Great Entrepreneurs Build Their Business and Influence-and How You Can, Too",
+    "author": "Gary Vaynerchuk",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/Crushing-It.jpg",
+    "recommendations": ["Casey Neistat"]
+  },
+  {
+    "title": "American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road",
+    "author": "Nick Bilton",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2018/12/American-Kingpin-The-Epic-Hunt-for-the-Criminal-Mastermind-Behind-the-Silk-Road.jpg",
+    "recommendations": ["Casey Neistat"]
+  },
+  {
+    "title": "Essentialism: The Disciplined Pursuit of Less",
+    "author": "Greg McKeown",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/11/Essentialism-The-Disciplined-Pursuit-of-Less-Greg-McKeown.jpg",
+    "recommendations": ["Casey Neistat"]
+  },
+  {
+    "title": "Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal",
+    "author": "Nick Bilton",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/10/Hatching-Twitter-A-True-Story-of-Money-Power-Friendship-and-Betrayal-Nick-Bilton.jpg",
+    "recommendations": ["Casey Neistat"]
+  },
+  {
+    "title": "The Second World War",
+    "author": "John Keegan",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/09/The-Second-World-War-John-Keegan.jpg",
+    "recommendations": ["Casey Neistat"]
+  },
+  {
+    "title": "The Autobiography of Malcolm X: As Told to Alex Haley",
+    "author": "Malcolm X, Alex Haley",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/09/The-Autobiography-of-Malcolm-X-As-Told-to-Alex-Haley.jpg",
+    "recommendations": ["Casey Neistat"]
+  },
+  {
+    "title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+    "author": "Ashlee Vance",
+    "img": "https://www.theceolibrary.com/wp-content/uploads/2017/08/Elon-Musk-Tesla-SpaceX-and-the-Quest-for-a-Fantastic-Future-Ashlee-Vance.jpg",
+    "recommendations": ["Casey Neistat"]
+  }
+]
