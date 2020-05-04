@@ -1,13 +1,13 @@
 {
-  "main.css": "/founder-shelfspace/static/css/main.46be41ea.chunk.css",
-  "main.js": "/founder-shelfspace/static/js/main.d256e74e.chunk.js",
-  "main.js.map": "/founder-shelfspace/static/js/main.d256e74e.chunk.js.map",
-  "runtime~main.js": "/founder-shelfspace/static/js/runtime~main.c16919be.js",
-  "runtime~main.js.map": "/founder-shelfspace/static/js/runtime~main.c16919be.js.map",
-  "static/js/2.a45a4884.chunk.js": "/founder-shelfspace/static/js/2.a45a4884.chunk.js",
-  "static/js/2.a45a4884.chunk.js.map": "/founder-shelfspace/static/js/2.a45a4884.chunk.js.map",
-  "index.html": "/founder-shelfspace/index.html",
-  "precache-manifest.29e9ca86f82538d0df89dcdf309c0c31.js": "/founder-shelfspace/precache-manifest.29e9ca86f82538d0df89dcdf309c0c31.js",
-  "service-worker.js": "/founder-shelfspace/service-worker.js",
-  "static/css/main.46be41ea.chunk.css.map": "/founder-shelfspace/static/css/main.46be41ea.chunk.css.map"
+  "main.css": "/static/css/main.46be41ea.chunk.css",
+  "main.js": "/static/js/main.b2f7c458.chunk.js",
+  "main.js.map": "/static/js/main.b2f7c458.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.42ac5946.js",
+  "runtime~main.js.map": "/static/js/runtime~main.42ac5946.js.map",
+  "static/js/2.a45a4884.chunk.js": "/static/js/2.a45a4884.chunk.js",
+  "static/js/2.a45a4884.chunk.js.map": "/static/js/2.a45a4884.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.a512fe33761e9b4f88d3605ac630bc55.js": "/precache-manifest.a512fe33761e9b4f88d3605ac630bc55.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.46be41ea.chunk.css.map": "/static/css/main.46be41ea.chunk.css.map"
 }
