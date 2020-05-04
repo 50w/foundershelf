@@ -50,7 +50,7 @@ function App() {
           <ul>
             <li>
               <a
-                href="https://www.github.com/nicklewanowicz/founder-shelfspace"
+                href="https://www.github.com/50w/foundershelf"
                 target="_blank"
               >
                 GitHub ↗
