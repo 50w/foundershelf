@@ -26,11 +26,11 @@ export function Root() {
   );
 
   function founderGrid(founders: Person[]) {
-    return <p>{founders.map(founder => founderSquare(founder))}</p>
+    return <section>{founders.map(founder => founderSquare(founder))}</section>
   }
 
-  function founderSquare(founder: Person) {
-    return <p>{founder.name}</p>
+  function founderSquare({description, name, img}: Person) {
+  return <aside><img height={150} alt={name} src={img}/><h3>{name}</h3><p>{description}</p></aside>
   }
 
 }
