@@ -23,7 +23,7 @@ export function Grid({founders, selectFounder}: Props) {
     const [open, setOpen] = useState(false);
     console.log(open);
     return (
-      <aside onClick={() => selectFounder(founder)}>
+      <aside key={name} onClick={() => selectFounder(founder)}>
         <img
           style={{
             height: "150px",
